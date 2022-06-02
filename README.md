@@ -1,5 +1,5 @@
 ### 고컴 과제를 찾아 여행하는 히치하이커들을 위한 안내서
-솔루션을 찾아 헤메던 이들을 위하여
+솔루션 자체보다는 답을 찾는 아이디어 제공을 지향합니다.
 
 <!--
 **THGTTKUCS/THGTTKUCS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
